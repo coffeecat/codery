@@ -1,2 +1,3 @@
 # codery
-Just a Git-test site for now. First time creating a Git repo. 
+Sorry people. This is just a boring test for now. It's my first time creating a Git repo. 
+
