@@ -1,2 +1,3 @@
 hello world
-it's hammer time
+it's hammer time 
+* I added this line from gitHub.com 
