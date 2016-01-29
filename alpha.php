@@ -3,6 +3,7 @@ On the mac - eleted everything  9:12 - 11:14
 GitHub changes - 9:13 
 hello
 this is GitSomenew testHb - 9:13 
+11:40
 whoa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consectetur maximus lacinia. 
 Nulla id posuere mi, ut dapibus quam. Praesent ut commodo nunc. Sed dictum ex vitae sagittis dictum. 
 Praesent at arcu at erat dictum feugiat. Sed aliquet fermentum dolor id pulvinar. Suspendisse potenti. 
