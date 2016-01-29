@@ -4,7 +4,7 @@ GitHub changes - 9:13
 hello
 this is GitSomenew testHb - 9:13 
 11:40
-whoa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consectetur maximus lacinia. 
+whoa THIS IS NEW TEXT FROM GITHUB Lorem ipsum dolor sit YES IT IS amet, consectetur adipiscing elit. Praesent consectetur maximus lacinia. 
 Nulla id posuere mi, ut dapibus quam. Praesent ut commodo nunc. Sed dictum ex vitae sagittis dictum. 
 Praesent at arcu at erat dictum feugiat. Sed aliquet fermentum dolor id pulvinar. Suspendisse potenti. 
 Nullam viverra mi eget nibh egestas, sed laoreet neque volutpat. Morbi mattis quam tortor. 
